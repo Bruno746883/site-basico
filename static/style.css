@@ -1,0 +1,271 @@
+.pores1{
+  color: green;
+  font-family: Sans-serif;
+  position: absolute;
+  top: 35%;
+  left:30%;
+  text-align: center;}
+
+.pores2{
+  color: green;
+  font-family: Sans-serif;
+  font-size: 25px;
+  position: absolute;
+  top: 70%;
+  left:37%;
+  text-align: center;}
+
+.re23{
+color: #032c05; 
+text-align: center;
+font-family: Sans-serif;
+font-size: 50px;}
+
+.button {
+  display: inline-block;
+  padding: 1rem;
+  border-radius: 4px;
+  word-spacing: 8px;
+  font-weight: 700;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(151, 221, 151);
+  background-color: rgb(10, 39, 6);
+  transition: .3s;
+  cursor: pointer;
+  position: absolute;
+  top: 70%;
+  left: 40%;
+  text-align: center;
+  width: 250px;}
+
+.tex12{
+font-family: Sans-serif;
+color: #08a800;
+position: absolute;
+left: 39%;
+top: 55%;
+font-size: 25px;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: #062e01;}
+
+.botão{
+  display: inline-block;
+  padding: 1rem;
+  border-radius: 100%;
+  word-spacing: 8px;
+  font-weight: 700;
+  font-family: sans-serif;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(151, 221, 151);
+  background-color: rgb(103, 168, 94);
+  transition: .3s;
+  cursor: pointer;
+  position: absolute;
+  top: 5%;
+  width:50px;}
+
+.boto{
+  display: inline-block;
+  padding: 1rem;
+  border-radius: 4px;
+  word-spacing: 8px;
+  font-weight: 700;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(151, 221, 151);
+  background-color: rgb(10, 39, 6);
+  transition: .3s;
+  cursor: pointer;
+  position: absolute;
+  left: 40%;
+  top: 80%;
+  width:250px;}
+
+.imagema{
+  border: 5px solid #3e6643;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  left: 5%;
+  top: 13%;}
+
+.par1{
+  color: #1b3b1f;
+  position: absolute;
+  top: 17%;
+  left: 23%;
+  font-family: sans-serif;}
+
+.par2{
+  color: #1b3b1f;
+  position: absolute;
+  top: 28%;
+  left: 23%;
+  font-family: sans-serif;}
+
+.par3{
+  color: #1b3b1f;
+  position: absolute;
+  top: 39%;
+  left: 23%;
+  font-family: sans-serif;}
+
+.par4{
+  color: #1b3b1f;
+  position: absolute;
+  top: 50%;
+  left: 23%;
+  font-family: sans-serif;}
+
+
+.ITEM1{
+  border: #062e01;
+  width: 75px;
+  height: 100px;
+  position: absolute;
+  left: 0%;
+  top: 10%;
+}
+.ITEM2{
+  border: #062e01;
+  width: 75px;
+  height: 100px;
+  position: absolute;
+  left: 20%;
+  top: 10%;
+}
+.ITEM3{
+  border: #062e01;
+  width: 75px;
+  height: 100px;
+  position: absolute;
+  left: 40%;
+  top: 10%;
+}
+.ITEM4{
+  border: #062e01;
+  width: 75px;
+  height: 100px;
+  position: absolute;
+  left: 60%;
+  top: 10%;
+}
+.ITEM5{
+  border: #062e01;
+  width: 75px;
+  height: 100px;
+  position: absolute;
+  left: 80%;
+  top: 10%;
+}
+.ITEM6{
+  border: #062e01;
+  width: 75px;
+  height: 100px;
+  position: absolute;
+  left: 100%;
+  top: 10%;
+}
+.ITEM7{
+  border: #062e01;
+  width: 100px;
+  height: 75px;
+  position: absolute;
+  left: 0%;
+  top: 30%;
+}
+.ITEM8{
+  border: #062e01;
+  width: 100px;
+  height: 75px;
+  position: absolute;
+  left: 20%;
+  top: 30%;
+}
+.ITEM9{
+  border: #062e01;
+  width: 100px;
+  height: 75px;
+  position: absolute;
+  left: 40%;
+  top: 30%;
+}
+.ITEM10{
+  border: #062e01;
+  width: 100px;
+  height: 75px;
+  position: absolute;
+  left: 60%;
+  top: 30%;
+}
+.ITEM11{
+  border: #062e01;
+  width: 100px;
+  height: 75px;
+  position: absolute;
+  left: 80%;
+  top: 30%;
+}
+.ITEM12{
+  border: #062e01;
+  width: 100px;
+  height: 75px;
+  position: absolute;
+  left: 100%;
+  top: 30%;
+}
+
+.fundo{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #599358;
+}
+
+.search-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#search-bar {
+  width: 50%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #209e59;
+  border-radius: 5px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+}
+
+.gallery-item {
+  background: #5bdc43;
+  padding: 10px;
+  border: 1px solid #13300e;
+  border-radius: 5px;
+  text-align: center;
+  width: calc(25% - 40px);
+  box-sizing: border-box;
+}
+
+.gallery-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.gallery-item p {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #0b3812;
+}
